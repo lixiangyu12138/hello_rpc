@@ -1,7 +1,5 @@
 package com.liwenwen;
 
-import com.liwenwen.common.Invocation;
-import com.liwenwen.protocol.HttpClient;
 import com.liwenwen.proxy.ProxyFactory;
 
 import java.io.IOException;
