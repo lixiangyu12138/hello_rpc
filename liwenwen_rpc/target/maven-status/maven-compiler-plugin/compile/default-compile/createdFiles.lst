@@ -1,1 +1,13 @@
+com\liwenwen\loadbalance\Loadbalance.class
+com\liwenwen\proxy\ProxyFactory.class
+com\liwenwen\common\JsonUtils.class
+com\liwenwen\common\URL.class
 com\liwenwen\protocol\HttpServer.class
+com\liwenwen\common\FileIO.class
+com\liwenwen\protocol\HttpServerHandler.class
+com\liwenwen\common\Invocation.class
+com\liwenwen\protocol\DispatcherServlet.class
+com\liwenwen\proxy\ProxyFactory$1.class
+com\liwenwen\register\LocalRegister.class
+com\liwenwen\protocol\HttpClient.class
+com\liwenwen\register\MapRemoteRegister.class

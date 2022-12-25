@@ -3,7 +3,9 @@ package com.liwenwen.common;
 import java.io.Serializable;
 
 
-
+/**
+ * 请求实体类 需要序列化 利用 Serializable
+ */
 public class Invocation  implements Serializable {
      //接口名
     private String interfaceName;

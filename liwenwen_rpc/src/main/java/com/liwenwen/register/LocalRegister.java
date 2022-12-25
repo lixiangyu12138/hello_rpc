@@ -8,8 +8,8 @@ public class LocalRegister {
 
     /**
      *  注册将接口的名字，接口的类型存到map里
-     * @param interfaceName
-     * @param implClass
+     * @param interfaceName  接口名字
+     * @param implClass  接口的实现类
      */
     public static void regist(String interfaceName,Class implClass){
         map.put(interfaceName,implClass);
